@@ -1,9 +1,3 @@
-//Feel free to use the code in your projects but do not forget to give me the credits adding my app (Flutter Animation Gallery) where you are gonna use it.
-
-//------------------------------------------
-
-// IMAGE LINK : https://unsplash.com/photos/bOBM8CB4ZC4
-
 import 'package:flutter/material.dart';
 import 'dart:ui';
 import 'package:flutter/gestures.dart';
